@@ -7,7 +7,7 @@ Windows용 오프라인 고정밀 시계입니다. 인터넷/NTP를 쓰지 않�
 ## 요구 사항
 
 - Windows 10/11
-- Python 3.11 이상 (소스 실행 시)
+- Python 3.11 이상 (소스 실행 시) https://www.python.org/downloads/windows/
 - PySide6
 
 ## 소스 실행
